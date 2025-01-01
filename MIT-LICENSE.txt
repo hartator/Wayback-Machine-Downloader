@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2015-2016 Julian Khaleghy and contributors
+Copyright (c) 2015-2025 Julian Khaleghy and contributors
 See the full list at https://github.com/hartator/wayback-machine-downloader/graphs/contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
